@@ -13,7 +13,7 @@ const Hero = () => {
           height={300}
         />
       </div>
-      <h1>Salut, eu sunt Toni</h1>
+      <h1>Salut, eu sunt Ion</h1>
       <p>
         Public articole despre dezvoltarea web - in special despre framework-uri
         pentru frontend cum ar fi React, Solid, Vue, Preact
